@@ -1,4 +1,4 @@
-# TAREA OPCIONAL E
+# TAREA OPCIONAL F
 
 ### BIOINFORMATIC QUESTION
 
@@ -33,5 +33,6 @@ Therefore, thanks to the biostars forum you can understand the errors broken dow
 
 1. Image showing the bioinformatic error
 
-    ![BWA script running error](gabymandrade/Tarea-F/Error.png)
+    ![BWA script running error](gabymandrade/Tarea-F/Error/Error.png)
+ )
 
